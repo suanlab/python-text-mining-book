@@ -1,2 +1,2 @@
-# PythonTextMining
-Python Text Mining
+# 파이썬으로 텍스트 분석하기
+이 저장소는 파이썬으로 텍스트 분석하기(늘봄출판사, 2018) 책의 소스코드를 공유합니다.
